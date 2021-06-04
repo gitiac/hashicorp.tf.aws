@@ -26,6 +26,7 @@ website/node_modules
 
 website/vendor
 vendor/
+
 # key files
 .pem
 .ppk
